@@ -7,9 +7,6 @@ cd rack
 # install development tools
 brew install git wget cmake autoconf automake libtool jq python zstd pkg-config
 
-# install wget
-brew install wget
-
 # download rack source
 git clone https://github.com/VCVRack/Rack.git
 cd Rack
