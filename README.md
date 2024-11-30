@@ -2,11 +2,13 @@
 
 Script zur automatischen Einrichtung der vcv-Rack Umgebung für die Entwicklung von Plugins auf dem Mac. 
 
-Installation der Developmenttols für vcv-Rack
+# Installation der Developmenttols für vcv-Rack
 
-Installation von inkscape
+## Installation von inkscape
 
    https://inkscape.org/release/inkscape-1.4/mac-os-x/dmg-arm64/dl/
+
+## Vorbereitung für die DEV-Tools
 
 Terminal starten
 bash aktivieren
