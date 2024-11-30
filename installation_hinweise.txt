@@ -12,7 +12,11 @@ cd work
 
 1) git muss aktiviert werden (kann ich dann selbst machen, wenn ich in Sudo-Rechte habe)
 
-2) Installationsskript runterladen, und starten mit
+2) Installationsskript runterladen,
+
+wget https://raw.githubusercontent.com/drmilde/setup-rack-development/refs/heads/main/setup_rack_development.sh
+
+3) und starten mit
 
 sh setup_rack_development.sh
 Abwarten und das Beste hoffen
