@@ -27,10 +27,15 @@ Script zur automatischen Einrichtung der vcv-Rack Umgebung für die Entwicklung 
 
 2) Installationsskript runterladen,
 
+~~~
 wget https://raw.githubusercontent.com/drmilde/setup-rack-development/refs/heads/main/setup_rack_development.sh
+~~~
 
 3) und starten mit
 
+~~~
 sh setup_rack_development.sh
-Abwarten und das Beste hoffen
+~~~
+
+Abwarten, und das Beste hoffen
 
