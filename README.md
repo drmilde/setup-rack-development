@@ -13,9 +13,11 @@ Script zur automatischen Einrichtung der vcv-Rack Umgebung für die Entwicklung 
 - Terminal starten
 -  bash aktivieren
 -  Arbeitsverzeichnis erstellen und rein-cd-en
-  
+
+~~~
    mkdir work
    cd work
+~~~
 
 0) füge fd1064 zu /private/etc/sudoers hinzu (dann nerve ich nicht mehr)
 
