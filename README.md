@@ -1,12 +1,12 @@
-# setup-rack-development
-
-Script zur automatischen Einrichtung der vcv-Rack Umgebung für die Entwicklung von Plugins auf dem Mac. 
-
 # Installation der Developmenttools für vcv-Rack
+
+Ein Script zur automatischen Einrichtung der vcv-Rack Umgebung für die Entwicklung von Plugins auf dem Mac. 
 
 ## Installation von inkscape
 
-   https://inkscape.org/release/inkscape-1.4/mac-os-x/dmg-arm64/dl/
+~~~
+https://inkscape.org/release/inkscape-1.4/mac-os-x/dmg-arm64/dl/
+~~~
 
 ## Vorbereitung für die DEV-Tools
 
