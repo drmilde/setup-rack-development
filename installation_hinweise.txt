@@ -1,5 +1,9 @@
 Installation der Developmenttols für vcv-Rack
 
+Installation von inkscape
+
+   https://inkscape.org/release/inkscape-1.4/mac-os-x/dmg-arm64/dl/
+
 Terminal starten
 bash aktivieren
 Arbeitsverzeichnis erstellen und rein-cd-en
