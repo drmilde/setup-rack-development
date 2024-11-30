@@ -2,7 +2,7 @@
 
 Script zur automatischen Einrichtung der vcv-Rack Umgebung für die Entwicklung von Plugins auf dem Mac. 
 
-# Installation der Developmenttols für vcv-Rack
+# Installation der Developmenttools für vcv-Rack
 
 ## Installation von inkscape
 
