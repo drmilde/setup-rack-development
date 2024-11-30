@@ -10,9 +10,10 @@ Script zur automatischen Einrichtung der vcv-Rack Umgebung für die Entwicklung 
 
 ## Vorbereitung für die DEV-Tools
 
-Terminal starten
-bash aktivieren
-Arbeitsverzeichnis erstellen und rein-cd-en
+- Terminal starten
+-  bash aktivieren
+-  Arbeitsverzeichnis erstellen und rein-cd-en
+  
 mkdir work
 cd work
 
